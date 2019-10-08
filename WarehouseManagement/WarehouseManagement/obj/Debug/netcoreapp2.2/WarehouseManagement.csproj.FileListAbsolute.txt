@@ -1,0 +1,148 @@
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.deps.json
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.runtimeconfig.json
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.runtimeconfig.dev.json
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.dll
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.pdb
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.Views.dll
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.Views.pdb
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.csprojAssemblyReference.cache
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.RazorAssemblyInfo.cache
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.RazorAssemblyInfo.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.AssemblyInfoInputs.cache
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.AssemblyInfo.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.TagHelpers.input.cache
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.TagHelpers.output.cache
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.RazorCoreGenerate.cache
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.RazorTargetAssemblyInfo.cache
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.RazorTargetAssemblyInfo.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.Views.pdb
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.dll
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.pdb
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.csproj.CopyComplete
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\Index.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Store\Index.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Wholesale\Create.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Wholesale\Delete.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Wholesale\Details.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Wholesale\Edit.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Wholesale\Index.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\Create.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\Delete.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\Details.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\Edit.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Store\Create.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Store\Delete.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Store\Details.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Store\Edit.g.cshtml.cs
+D:\Programming\Projects\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\OrderAll.g.cshtml.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.deps.json
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.runtimeconfig.json
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.runtimeconfig.dev.json
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.dll
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.pdb
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.Views.dll
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.Views.pdb
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.csprojAssemblyReference.cache
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.RazorAssemblyInfo.cache
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.RazorAssemblyInfo.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.AssemblyInfoInputs.cache
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.AssemblyInfo.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.TagHelpers.input.cache
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.TagHelpers.output.cache
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.RazorCoreGenerate.cache
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Store\Create.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Store\Delete.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Store\Details.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Store\Edit.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Store\Index.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\Create.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\Delete.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\Details.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\Edit.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\Index.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\OrderAll.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Wholesale\Create.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Wholesale\Delete.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Wholesale\Details.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Wholesale\Edit.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Wholesale\Index.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.RazorTargetAssemblyInfo.cache
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.RazorTargetAssemblyInfo.cs
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.Views.pdb
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.dll
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.pdb
+D:\Warehouse project\Warehouse\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.csproj.CopyComplete
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\appsettings.json
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.deps.json
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.runtimeconfig.json
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.runtimeconfig.dev.json
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.dll
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.pdb
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.Views.dll
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\bin\Debug\netcoreapp2.2\WarehouseManagement.Views.pdb
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.csprojAssemblyReference.cache
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.RazorAssemblyInfo.cache
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.RazorAssemblyInfo.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.AssemblyInfoInputs.cache
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.AssemblyInfo.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.TagHelpers.input.cache
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.TagHelpers.output.cache
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.RazorCoreGenerate.cache
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Store\Create.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Store\Delete.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Store\Details.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Store\Edit.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Store\Index.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\Create.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\Delete.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\Details.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\Edit.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\Index.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Warehouse\OrderAll.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Wholesale\Create.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Wholesale\Delete.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Wholesale\Details.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Wholesale\Edit.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\Wholesale\Index.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.RazorTargetAssemblyInfo.cache
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.RazorTargetAssemblyInfo.cs
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.Views.pdb
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.dll
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.pdb
+D:\WH-Test\WH-Test\WarehouseManagement\WarehouseManagement\obj\Debug\netcoreapp2.2\WarehouseManagement.csproj.CopyComplete
