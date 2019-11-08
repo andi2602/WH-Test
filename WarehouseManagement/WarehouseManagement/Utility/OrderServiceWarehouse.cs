@@ -48,7 +48,7 @@ namespace WarehouseManagement.Utility
                         wItem.Description = item.Description;
                         // wItem.cathegory.wCathegoryId = item.cathegory.CathegoryId;
                         warehouseContext.wItems.AddAsync(wItem);
-                        warehouseContext.SaveChanges();
+                        warehouseContext.SaveChangesAsync();
 
                     }
 
@@ -69,7 +69,7 @@ namespace WarehouseManagement.Utility
 
         //function to transfer specific item from wholesale to warehouse
 
-        public void OrderSpecificItem(int quantity, wItems item)
+        public void OrderSpecificItem(wItems item,int quantity)
         {
             using (wholesaleContext)
             {
@@ -83,6 +83,24 @@ namespace WarehouseManagement.Utility
                     warehouseContext.SaveChanges();
                 }
                
+            }
+        }
+
+        public void RestockWarehouse()
+        {
+            int temp = 0;
+            using (warehouseContext)
+            {
+                foreach(var item in warehouseContext.wItems.ToList())
+                {
+                    if (item.Quantity < 50)
+                    {
+                        temp = 50 - item.Quantity;
+                        item.Quantity += temp;
+
+                        warehouseContext.SaveChanges();
+                    }
+                }
             }
         }
 
