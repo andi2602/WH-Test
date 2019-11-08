@@ -168,14 +168,21 @@ namespace WarehouseManagement.Controllers
         }
 
         [HttpGet]
-        public IActionResult Order(int? id, int quantity=5)
+        public IActionResult Order (int? id,int quantity=5)
         {
             var item = _context.wItems.FirstOrDefault(x=>x.wItemId==id);
 
-            _service.OrderSpecificItem(quantity, item);
+            _service.OrderSpecificItem(item,quantity);
 
 
 
+            return RedirectToAction(nameof(Index));
+        }
+
+        [HttpGet]
+        public IActionResult Restock()
+        {
+            _service.RestockWarehouse();
             return RedirectToAction(nameof(Index));
         }
 

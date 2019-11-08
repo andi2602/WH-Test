@@ -25,25 +25,20 @@ namespace WarehouseManagement.Controllers
         }
 
         // GET: Store
-        // Get input from search bar
         public async Task<IActionResult> Index(string searchString)
         {
-            // Find item
             var items = from i in _context.storeItems
                         select i;
 
-            // Find all items in database
             if (!String.IsNullOrEmpty(searchString))
             {
                 items = items.Where(s => s.Name.Contains(searchString));
             }
 
-            // Display items in view
             return View(await items.ToListAsync());
         }
 
         // GET: Store/Details/5
-        // Gets item on clicked row
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -51,7 +46,6 @@ namespace WarehouseManagement.Controllers
                 return NotFound();
             }
 
-            // Finds item with id
             var storeItems = await _context.storeItems
                 .FirstOrDefaultAsync(m => m.storeItemId == id);
             if (storeItems == null)
@@ -59,7 +53,6 @@ namespace WarehouseManagement.Controllers
                 return NotFound();
             }
 
-            // Returns details of item
             return View(storeItems);
         }
 
@@ -167,12 +160,10 @@ namespace WarehouseManagement.Controllers
 
 
         [HttpGet ]
-        // Order All functionality
-        public  IActionResult OrderAll(int quantity=5)
+        
+        public  IActionResult OrderAll(int quantity=15)
         {
-            // Increases all items by set amount
             _service.fillWholeStore(quantity);
-            // Gets all items from store
             var storeItems = _context.storeItems;
             return RedirectToAction(nameof(Index));
         }
@@ -181,14 +172,19 @@ namespace WarehouseManagement.Controllers
         [HttpGet]
         public IActionResult Order(int? id, int quantity = 5)
         {
-            // Gets row idd
             var item = _context.storeItems.FirstOrDefault(x => x.storeItemId == id);
 
-            // Increment item by set amount
             _service.orderSpecificItem(quantity, item);
 
 
 
+            return RedirectToAction(nameof(Index));
+        }
+
+        [HttpGet]
+        public IActionResult Restock()
+        {
+            _service.RestockStore();
             return RedirectToAction(nameof(Index));
         }
 
