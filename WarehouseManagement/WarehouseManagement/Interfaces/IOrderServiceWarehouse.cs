@@ -10,6 +10,8 @@ namespace WarehouseManagement.Interfaces
     {
 
         void OrderItemsForWarehouse(int quantity);
-        void OrderSpecificItem(int quantity, wItems item);
+        void OrderSpecificItem(wItems item,int quantity);
+        void RestockWarehouse();
+
     }
 }

@@ -10,5 +10,6 @@ namespace WarehouseManagement.Interfaces
     {
          void fillWholeStore(int quantity);
         void orderSpecificItem(int quantity, storeItems storeItem);
+        void RestockStore();
     }
 }

@@ -9,11 +9,18 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<button class="btn btn-info" type="button" id="order"
-        onclick="location.href='@Url.Action("OrderAll", "Store" )'">
-    OrderAll
+<button class="btn btn-info" type="button" id="restock"
+        onclick="location.href='@Url.Action("Restock", "Store" )'">
+    Restock
 </button>
-<input type="text" id="quantity" , name="quantity" value="" />
+<form action='@Url.Action("OrderAll","Store")' method="get">
+    <input type="text" id="quantity" name="quantity" value="" />
+    <button class="btn btn-info" type="submit" id="order">
+        OrderAll
+    </button>
+
+
+</form>
 <form asp-controller="Store" asp-action="Index">
 <p>
      <input type="text" name="SearchString">
@@ -44,7 +51,7 @@
     <tbody>
         @foreach (var item in Model)
         {
-            <tr>
+            <tr class="@(item.Quantity<50 ? "low":"high")">
                 <td>
                     @Html.DisplayFor(modelItem => item.Name)
                 </td>
